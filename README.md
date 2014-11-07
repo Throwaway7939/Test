@@ -1,3 +1,3 @@
-ReadMe file for Test
+Test
 ===
-This is a test file.
+This is a test repository.
